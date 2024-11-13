@@ -12,7 +12,7 @@ I’m currently learning:
 - Basic Web Development
 
 ## 💞️ Collaboration
-I’m looking to collaborate on projects involving Data Science. If you have any ideas or need help, feel free to reach out!
+I’m looking to collaborate on projects involving Data Science. If you have any ideas , feel free to reach out!
 
 ## 📫 How to Reach Me
 You can reach me at:

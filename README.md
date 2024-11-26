@@ -16,7 +16,7 @@ I’m looking to collaborate on projects involving Data Science. If you have any
 
 ## 📫 How to Reach Me
 You can reach me at:
-- [Email](mailto:riteesh.meganathan@gmail.com)
-- [LinkedIn Profile](www.linkedin.com/in/riteeshtm07)
+- [Email]mailto:riteesh.meganathan@gmail.com
+- [LinkedIn Profile]www.linkedin.com/in/riteeshtm07
 
 Feel free to connect or check out my projects!

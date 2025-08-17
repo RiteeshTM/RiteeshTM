@@ -59,5 +59,5 @@
 ## 📫 Connect with Me  
 <p align="left">
   <a href="mailto:riteesh.meganathan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/riteesh-tm"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/riteeshtm07"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>

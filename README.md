@@ -32,7 +32,15 @@
   <img src="https://skillicons.dev/icons?i=flask,fastapi,vue" style="margin-right:20px;" />  
   <img src="https://skillicons.dev/icons?i=git,github,docker" style="margin-right:20px;" />  
   <img src="https://skillicons.dev/icons?i=linux,aws,azure,vscode" style="margin-right:20px;" />  
+  <img src="https://skillicons.dev/icons?i=vim" style="margin-right:20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
+       alt="Jupyter" title="Jupyter" width="40" style="margin-right:20px;" />
+
+  <!-- External Streamlit Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" 
+       alt="Streamlit" title="Streamlit" width="40" style="margin-right:20px;" />
 </p>
+
 
 **Data Science & ML Libraries:**  
 <p align="left">

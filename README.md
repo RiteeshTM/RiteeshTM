@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riteesh T M</h1>
-<h3 align="center">Aspiring Data Scientist | AI & Data Enthusiast | Backend Dev Enthusiast | Problem Solver</h3>
+<h3 align="center">Aspiring Data Scientist | AI & Data Enthusiast | Backend and Cloud | Problem Solver</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="cool coding gif" width="600"/>

@@ -12,7 +12,6 @@
 - 🚀 Passionate about **Backend Development, AI, and Data Analysis**  
 - 💡 Exploring **Agentic AI, NLP, and Scalable Architectures**  
 - 🎯 Goal: Build impactful software and contribute to **open-source**  
-- 🐧 I use Arch BTW 🤣  
 - ➗ Fun Fact: I love Math ✨  
 
 ---

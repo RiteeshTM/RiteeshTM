@@ -20,34 +20,58 @@
 
 **Programming & Scripting:**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c" style="margin-right:20px;" />  
-  <img src="https://skillicons.dev/icons?i=javascript,html,css" style="margin-right:20px;" />  
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,bash" style="margin-right:20px;" />  
-  <img src="https://skillicons.dev/icons?i=awk" style="margin-right:20px;" />  
+  <img src="https://skillicons.dev/icons?i=python,java,c" />  
+  <img src="https://skillicons.dev/icons?i=javascript,html,css" />  
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,bash" />  
+  <img src="https://skillicons.dev/icons?i=go,r" />  
 </p>
-
 **Frameworks & Tools:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,vue" style="margin-right:20px;" />  
-  <img src="https://skillicons.dev/icons?i=git,github,docker" style="margin-right:20px;" />  
-  <img src="https://skillicons.dev/icons?i=linux,aws,azure,vscode" style="margin-right:20px;" />  
-  <img src="https://skillicons.dev/icons?i=vim" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
-       alt="Jupyter" title="Jupyter" width="40" style="margin-right:20px;" />
 
-  <!-- External Streamlit Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" 
-       alt="Streamlit" title="Streamlit" width="40" style="margin-right:20px;" />
+<p align="left">
+  <!-- Core tools (skillicons) -->
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,vue,git,github,docker,linux,aws,azure,vscode,vim" />
+</p>
+
+<p align="left">
+  <!-- Backend (Go ecosystem) -->
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gorilla%20Mux-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+
+---
+**Data Science & ML + AI Stack:**  
+
+<p align="left">
+  <!-- Core ML / Data -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 
-**Data Science & ML Libraries:**  
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" height="40" style="margin-right:20px;" />  
-  <img src="https://pandas.pydata.org/static/img/pandas.svg" height="40" style="margin-right:20px;" />  
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" style="margin-right:20px;" />  
-  <img src="https://matplotlib.org/_static/logo2.svg" height="40" style="margin-right:20px;" />  
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" style="margin-right:20px;" />  
+  <!-- AI / LLM -->
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <!-- R Ecosystem -->
+  <img src="https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ggplot2-EA4C89?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/tidyr-00BFC4?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 
